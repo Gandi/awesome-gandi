@@ -6,6 +6,7 @@
 
 - [Libraries](#libraries)
 - [Deployment](#deployment)
+- [APIs](#apis)
 
 ## Libraries
 
@@ -14,3 +15,8 @@
 ## Deployment
 
 - [Gandi Terraform Provider](https://github.com/go-gandi/terraform-provider-gandi) - A Terraform provider to manages Gandi resources (domains, mailboxes, etc.).
+
+## APIs
+
+- [Gandi API](https://api.gandi.net) - The Gandi v5 API.
+- [Gandi Sandbox API](https://api.sandbox.gandi.net) - The Gandi v5 Sandbox API allowing you to use the API without creating any resources.
