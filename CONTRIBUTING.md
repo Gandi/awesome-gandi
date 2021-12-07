@@ -9,6 +9,6 @@ Make sure your pull request follows these guidelines:
 - Expand on why the resource is useful in your pull request if needed.
 - Keep descriptions short and simple, but descriptive. 
 - Double check your spelling and grammar! 😁
-- Keep entries sorts alphabetically by the title.
+- Keep entries sorted alphabetically by the title.
 
 Thanks for contributing!
