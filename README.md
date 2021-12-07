@@ -2,11 +2,19 @@
 
 # <a href="https://gandi.net/"><img align="right" src="https://upload.wikimedia.org/wikipedia/en/c/c7/GandiSAS.svg" alt="awesome-gandi" title="awesome-gandi" style="width: 250px; height: 54px;" width="250" height="54"/></a> Awesome Gandi
 
+> A curated list of awesome Gandi tools, tutorials, and other resources.
+
 ## Contents
 
 - [Libraries](#libraries)
 - [Deployment](#deployment)
 - [APIs](#apis)
+
+#### Contributing
+
+Contributions are welcome! To add a resource to the list, please [create an Issue](https://github.com/nlewo/awesome-gandi/issues) or fork this repository and submit a pull request ([click here to edit this file from GitHub](https://github.com/nlewo/awesome-gandi/edit/main/README.md)).
+
+For more details, see [contribution guidelines](CONTRIBUTING.md).
 
 ## Libraries
 
