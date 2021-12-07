@@ -7,6 +7,7 @@
 - [Libraries](#libraries)
 - [Deployment](#deployment)
 - [APIs](#apis)
+- [Docs & tutorials](#docs--tutorials)
 
 ## Libraries
 
@@ -20,3 +21,9 @@
 
 - [Gandi API](https://api.gandi.net) - The Gandi v5 API.
 - [Gandi Sandbox API](https://api.sandbox.gandi.net) - The Gandi v5 Sandbox API allowing you to use the API without creating any resources.
+
+## Docs & tutorials
+
+- [Gandi documentation](https://docs.gandi.net) - Official documentation.
+- [GandiCloud VPS tutorials](https://docs.gandi.net/en/cloud/vps/tutorials/index.html) - Tutorials made by Gandi with examples of what can be done with a GandiCloud VPS.
+- [Custom Linux distribution on GandiCloud VPS](https://mdk.fr/blog/how-to-install-any-distrib-on-a-gandi-vps.html) - Article about how to install any distribution on a GandiCloud VPS.
