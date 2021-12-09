@@ -23,6 +23,7 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 - [go-gandi](https://github.com/go-gandi/go-gandi) - A Go library for Gandi V5 APIs.
 - [Lego](https://github.com/go-acme/lego) - A ACME client and library that supports Gandi V5 API and built in Go.
 - [LibDNS](https://github.com/libdns/libdns) - A Universal DNS provider APIs for Go with a [Gandi V5 provider](https://github.com/libdns/gandi) available.
+- [libcloud](https://github.com/apache/libcloud) - A Python library to manage cloud resources (compute and DNS for Gandi driver).
 
 ## Deployment
 
