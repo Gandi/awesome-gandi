@@ -1,8 +1,8 @@
 <!--lint disable awesome-badge awesome-git-repo-age awesome-github-->
 
-# <a href="https://www.gandi.net/"><img align="right" src="https://upload.wikimedia.org/wikipedia/en/c/c7/GandiSAS.svg" alt="awesome-gandi" title="awesome-gandi" style="width: 250px; height: 54px;" width="250" height="54"/></a> Awesome Gandi
+# <img align="right" src="assets/gandi_logo.svg#gh-light-mode-only" alt="" width="180" /><img align="right" src="assets/gandi_logo.svg#gh-dark-mode-only" alt="" width="180" /> Awesome Gandi
 
-> A curated list of awesome Gandi tools, tutorials, and other resources.
+> A curated list of awesome [Gandi] tools, tutorials, and other resources.
 
 ## Contents
 
@@ -45,3 +45,8 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 - [Gandi documentation](https://docs.gandi.net) - Official documentation.
 - [GandiCloud VPS tutorials](https://docs.gandi.net/en/cloud/vps/tutorials/index.html) - Tutorials made by Gandi with examples of what can be done with a GandiCloud VPS.
 - [Custom Linux distribution on GandiCloud VPS](https://mdk.fr/blog/how-to-install-any-distrib-on-a-gandi-vps.html) - Article about how to install any distribution on a GandiCloud VPS.
+
+
+
+[Gandi]: https://www.gandi.net
+
