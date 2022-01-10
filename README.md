@@ -45,3 +45,4 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 - [Gandi documentation](https://docs.gandi.net) - Official documentation.
 - [GandiCloud VPS tutorials](https://docs.gandi.net/en/cloud/vps/tutorials/index.html) - Tutorials made by Gandi with examples of what can be done with a GandiCloud VPS.
 - [Custom Linux distribution on GandiCloud VPS](https://mdk.fr/blog/how-to-install-any-distrib-on-a-gandi-vps.html) - Article about how to install any distribution on a GandiCloud VPS.
+- [Install OpenBSD 7.0 on a Gandicloud VPS](https://mvieira.fr/posts/install-openbsd-on-gandicloud-vps/) - Article about how to install OpenBSD 7.0 on a GandiCloud VPS ([also available in french](https://themimitoof.fr/installer-openbsd-7-0-sur-gandicloud-vps/)).
