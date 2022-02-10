@@ -24,6 +24,7 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 - [Lego](https://github.com/go-acme/lego) - A ACME client and library that supports Gandi V5 API and built in Go.
 - [LibDNS](https://github.com/libdns/libdns) - A Universal DNS provider APIs for Go with a [Gandi V5 provider](https://github.com/libdns/gandi) available.
 - [libcloud](https://github.com/apache/libcloud) - A Python library to manage cloud resources (compute and DNS for Gandi driver).
+  [gandi-2-terraform]](https://github.com/marcaurele/gandi-2-terraform) - A Python library to export the DNS records of a Gandi organization in a Terraform file compatible with the Gandi Terraform Provider.
 
 ## Deployment
 
