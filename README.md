@@ -28,8 +28,9 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 
 ## Deployment
 
-- [Gandi Terraform Provider](https://github.com/go-gandi/terraform-provider-gandi) - A Terraform provider to manages Gandi resources (domains, mailboxes, etc.).
 - [Ansible Gandi LiveDNS](https://docs.ansible.com/ansible/latest/collections/community/general/gandi_livedns_module.html) - A Ansible module for managing Gandi LiveDNS records.
+- [Gandi Pulumi Provider](https://github.com/pulumiverse/pulumi-gandi) - A Pulumi provider to manage Gandi resources.
+- [Gandi Terraform Provider](https://github.com/go-gandi/terraform-provider-gandi) - A Terraform provider to manages Gandi resources (domains, mailboxes, etc.).
 - [gandi-2-terraform](https://github.com/marcaurele/gandi-2-terraform) - A Python tool to export DNS records of a Gandi organization to a compatible Terraform file using the [Gandi Terraform Provider](https://registry.terraform.io/providers/go-gandi/gandi).
 
 ## Clients
