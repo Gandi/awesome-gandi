@@ -35,8 +35,9 @@ For more details, see [contribution guidelines](CONTRIBUTING.md).
 
 ## Clients
 
-- [Lego](https://go-acme.github.io/lego/usage/cli/) - A ACME client and library that supports Gandi V5 API and built in Go.
+- [Certbot](https://certbot.eff.org/) - A ACME client that supports Gandi V5 API with [certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi).
 - [DDClient](https://github.com/ddclient/ddclient) - The most popular open-source DDNS client that supports Gandi LiveDNS.
+- [Lego](https://go-acme.github.io/lego/usage/cli/) - A ACME client and library that supports Gandi V5 API and built in Go.
 
 ## APIs
 
